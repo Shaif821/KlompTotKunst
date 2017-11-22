@@ -1,0 +1,1 @@
+In deze versie wordt de active gedoe toegepast aan de inlog systeem. En gezorgd dat er eisen zijn voor het invullen van de inloggegevens. Ook beter beveiligd 
